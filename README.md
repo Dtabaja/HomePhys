@@ -1,6 +1,6 @@
 # HomePhys
 
-<img src="https://github.com/Dtabaja/HomePhys/blob/master/HomePhys_Logo.jpg" width="500">
+<img src="https://github.com/Dtabaja/HomePhys/blob/master/HomePhys_Logo.jpg" width="200">
 
 
 Hi everyone,
