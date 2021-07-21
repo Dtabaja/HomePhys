@@ -14,6 +14,11 @@ The core of the application is to find the most appropriate treatment plan, prov
 Daniel Tabaja
 Niv Naory
 ```
-
-
+### Collaboration with
+###### Meir Hospital
+```
+ 
+Dr. Eyal Ya'acobi 
+Ms. Smadar Pasand
+```
 
