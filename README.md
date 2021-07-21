@@ -15,6 +15,7 @@ Daniel Tabaja
 Niv Naory
 ```
 ##### Collaboration with Meir Medical Center
+
 ```
 Dr. Eyal Ya'acobi 
 Ms. Smadar Pasand
