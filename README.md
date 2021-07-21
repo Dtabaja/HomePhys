@@ -1,16 +1,16 @@
-# flutter_app_homephys
+# HomePhys
 
-A new Flutter application.
+Hi everyone,
 
-## Getting Started
+I present you "HomePhys - Care you can trust"
 
-This project is a starting point for a Flutter application.
+## What is "HomePhys"?
+"HomePhys" is an application that aims to optimize and improve the physiotherapy rehabilitation process of patients under the hospital framework by organizing and consolidating patient data, treatment process, and provide a motivational motive for performing home exercises.
 
-A few resources to get you started if this is your first Flutter project:
+The core of the application is to find the most appropriate treatment plan, provided to the user. The program includes a division into stages according to the steps of his progress. With each stage he will be able to proceed if he completes the previous stage and at each stage, he will have several exercises that need to perform. Each exercise will include a video, a verbal explanation according to his injury, an adapted questionnaire to calculate the rate of his progress between each exercise and exercise.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Made by
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Daniel Tabaja
+##### Niv Naory
+
