@@ -1,5 +1,8 @@
 # HomePhys
 
+<img src="https://github.com/Dtabaja/HomePhys/blob/master/HomePhys_Logo.jpg" width="500">
+
+
 Hi everyone,
 
 I present you "HomePhys - Care you can trust"
